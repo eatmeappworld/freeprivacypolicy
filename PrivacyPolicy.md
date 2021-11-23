@@ -46,6 +46,8 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 **Phone number**
 
+**Photo and Video**
+
 **GPS coordinates (Location Data Type - Precise Location)**
 
 **Usage Data**
@@ -53,6 +55,10 @@ While using Our Service, We may ask You to provide Us with certain personally id
 ### Phone number
 
 Usage Phone number Data Type is collected  when using the Service if User wants to upload content. The user can register using a phone number.  The user can provide their phone number when using the service.  The phone number is required to satisfy the condition of the agreement that the copyright of the content belongs to the user. The phone number is stored in encrypted and anonymized form. Record of the phone number can be deleted at the request of the user through the email [eatmeplace@gmail.com](eatmeplace@gmail.com).
+
+
+### Photo and Video
+Usage Photo and Video Data Type is collected  when using the Service if User wants to upload content. The content that the user uploads is stored on the service's servers. The content can be used to display within the application. When the user submits content to the service, the user agrees that the rights to the content are transferred to the service along with the content. When the user submits content to the service, he agrees that this content will be used and displayed within the service in advertising.
 
 ### Location Data Type
 
