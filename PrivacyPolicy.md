@@ -46,10 +46,14 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 **Phone number**
 
-**GPS coordinates**
+**GPS coordinates (Location Data Type - Precise Location)**
 
 **Usage Data**
 
+
+### Location Data Type
+
+Usage Location Data Type is collected automatically when using the Service.  Цe use the user's coordinate data (Location Data) to show the best restaurants, bars, caffes near the user. Based on the coordinate data, we find the nearest restaurants and give a sample of them. The user's coordinate data (Location Data) can be used to show the user personalized ads based on geo position data. Geo position data (Location Data) is impersonally stored on the server for statistics and marketing analysis.
 
 
 ### Usage Data
