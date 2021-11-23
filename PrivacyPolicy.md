@@ -7,11 +7,11 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 
 ## Interpretation and Definitions
 
-## #Interpretation
+### Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## #Definitions
+### Definitions
 
 For the purposes of this Privacy Policy:
 
@@ -38,9 +38,9 @@ For the purposes of this Privacy Policy:
 **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## Collecting and Using Your Personal Data
-## #Types of Data Collected
-
-## ## Personal Data
+### Types of Data Collected
+ 
+#### Personal Data
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
@@ -52,7 +52,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 
 
-## #Usage Data
+### Usage Data
 
 Usage Data is collected automatically when using the Service.
 
@@ -64,7 +64,7 @@ We may also collect information that Your browser sends whenever You visit our S
 
 
 
-## #Tracking Technologies and Cookies
+### Tracking Technologies and Cookies
 
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
 
@@ -146,20 +146,20 @@ The Company will take all steps reasonably necessary to ensure that Your data is
 
 ## Disclosure of Your Personal Data
 
-## #Business Transactions
+### Business Transactions
 
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-## #Law enforcement
+### Law enforcement
 
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-## #Other legal requirements
+### Other legal requirements
 
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
 ## Comply with a legal obligation
-## #Protect and defend the rights or property of the Company
+### Protect and defend the rights or property of the Company
 Prevent or investigate possible wrongdoing in connection with the Service
 Protect the personal safety of Users of the Service or the public
 Protect against legal liability
@@ -197,7 +197,7 @@ Our Service may contain links to other websites that are not operated by Us. If 
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## #Deleting a user
+### Deleting a user
 
 If a user wants to delete their data, they can request to delete their data by email [eatmeplace@gmail.com](eatmeplace@gmail.com). The data will be deleted within 3 business days.
 
